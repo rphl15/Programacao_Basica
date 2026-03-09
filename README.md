@@ -14,5 +14,3 @@ Atualmente o repositório possui exercícios nas seguintes áreas:
 - Manipulação de dados
 - Automação com PyAutoGUI
 - Exercícios de lógica
-
-
